@@ -1,0 +1,9 @@
+G:\Sample.Makerhub\Sample.DB\bin\Debug\Sample.DB.dacpac
+G:\Sample.Makerhub\Sample.DB\bin\Debug\Sample.DB.dll
+G:\Sample.Makerhub\Sample.DB\bin\Debug\Sample.DB.pdb
+G:\Sample.Makerhub\Sample.DB\obj\Debug\Model.xml
+G:\Sample.Makerhub\Sample.DB\obj\Debug\refactor.xml
+G:\Sample.Makerhub\Sample.DB\obj\Debug\postdeploy.sql
+G:\Sample.Makerhub\Sample.DB\obj\Debug\predeploy.sql
+G:\Sample.Makerhub\Sample.DB\obj\Debug\Sample.DB.dll
+G:\Sample.Makerhub\Sample.DB\obj\Debug\Sample.DB.pdb

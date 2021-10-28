@@ -1,0 +1,12 @@
+﻿CREATE TABLE [dbo].[Sample]
+(
+	[SampleId] INT NOT NULL IDENTITY PRIMARY KEY,
+	[Auteur] NVARCHAR(50) NULL,
+	[Titre] NVARCHAR(50) NOT NULL,
+	[Description] NVARCHAR(250) NULL,
+	[Format] NVARCHAR(50) NULL,
+	[URL] NVARCHAR(250) NULL,
+	[IsTelechargeable] BIT NULL
+
+
+)
